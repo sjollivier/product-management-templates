@@ -12,7 +12,7 @@ Define the type of project. Delivery projects are the standard feature delivery 
 ## [Working Backwards](https://www.allthingsdistributed.com/2006/11/working_backwards.html) - Example Press Release Quote or Sales Pitch
 Provide a quote from a hypothetical customer or stakeholder that describes how they experienced the benefit. This is what we are aiming for with the effort.  
 
-***Example:*** With the new ESP XYZ Mobile device usage reports, I was able to make a business case for investing in mobile-optimized email templates, complete the project, and see a 30% lift in engagement and conversions from my email programs. These reports gave me absolute transparency on what percentage of my audience was viewing my emails on a mobile device and how that varied over the week. All in all, I saw huge ROI with very little extra work once I revamped my templates to be mobile-optimized.
+***Example:*** "With the new ESP XYZ Mobile device usage reports, I was able to make a business case for investing in mobile-optimized email templates, complete the project, and see a 30% lift in engagement and conversions from my email programs. These reports gave me absolute transparency on what percentage of my audience was viewing my emails on a mobile device and how that varied over the week. All in all, I saw huge ROI with very little extra work once I revamped my templates to be mobile-optimized." stated Milo Minderbinder of The Syndicate. 
 
 ## Summary of Problem/Opportunity
 Focus on a concise and precise description of the rationale for the effort. Enumerate in bulleted points the problem or challenges or opportunity that will be addressed.
