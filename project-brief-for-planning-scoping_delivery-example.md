@@ -15,28 +15,32 @@ Provide a quote from a hypothetical customer or stakeholder that describes how t
 ***Example:*** With the new ESP XYZ Mobile device usage reports, I was able to make a business case for investing in mobile-optimized email templates, complete the project, and see a 30% lift in engagement and conversions from my email programs. These reports gave me absolute transparency on what percentage of my audience was viewing my emails on a mobile device and how that varied over the week. All in all, I saw huge ROI with very little extra work once I revamped my templates to be mobile-optimized.
 
 ## Summary of Problem/Opportunity
-Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. Describe the problem your product solves. Enumerate in bulleted points the problem or challenges or opportunity that will be addressed.
+Focus on a concise and precise description of the rationale for the effort. Enumerate in bulleted points the problem or challenges or opportunity that will be addressed.
 
-***Example (from back in the day - - focus on concise and precise description of the why):*** One of the primary themes and business questions in the email marketing business this year is “To what extent is my audience interacting with my email via mobile devices?” This is often followed up by the question “And what should I do about it?” Currently, we have no direct way to answer this business question outside of directing customers to third party offerings such as xxx or using professional services (which are finite and relatively expensive). The downside of these approaches is setup friction, cost, and pushing users outside of our product.
+***Example (from back in the day):*** One of the primary themes and business questions in the email marketing business this year is “To what extent is my audience interacting with my email via mobile devices?” This is often followed up by the question “And what should I do about it?” Currently, we have no direct way to answer this business question outside of directing customers to third party offerings such as - - - or using professional services (which are finite and relatively expensive). The downside of these approaches is setup friction, cost, and pushing users outside of our product.
 
-Further, there is a downstream strategy and creative services opportunity to exposing and documenting the magnitude of mobile usage in a customer’s audience. Specifically, if the answer to the question about mobile consumption of a brand’s email is greater than 25%, which is quite likely given industry benchmarks, then our response is to offer strategy and creative services to revamp a brand’s email templates to be more mobile friendly. As a result, it is believed that delivering an out-of-the box report on mobile device usage directly addresses a looming demand in the market and offers the opportunity for services add-on business.
+Further, there is a downstream strategy and creative services opportunity to exposing and documenting the magnitude of mobile usage in a customer’s audience. Specifically, if the answer to the question about mobile consumption of a brand’s email is greater than 25%, which is quite likely given industry benchmarks, then our response is to offer strategy and creative services to revamp a brand’s email templates to be more mobile friendly. 
+
+As a result, it is believed that delivering an out-of-the box report on mobile device usage directly addresses a looming demand in the market, expected of any leading ESP, and offers the opportunity for services add-on business.
 
 ## Essential Elements of the Solution
 Describe from the user’s/stakeholder’s perspectives how the solution will improve upon their problem..
+Focus on a concise and precise description of the what to build so we can scope the effort. 
 
-***Example (from back in the day - focus on a concise and precise description of the what):***
-The CEO says to the VP of Marketing “Did you know that your emails look like crap on my iPhone? How many of our customers are using iPhones to read your email in the last 3 months? If they are having the same experience I’m having, then I think we need to something about it and pronto.” Then, since stuff flows downhill, the VP of Marketing then says to the users of the email marketing application “what’s our engagement via mobile devices, and they say hey no problem, ESP XYZ just told me that they have a report that will help me provide you with the following types of answers:”
-In the last month, 30% of our opens occurred on a mobile device and 70% on the desktop.
-In the last quarter, only 2% clicks occurred via a mobile device.
-In the last month, iPhones represented 80% of the mobile devices used by our audience.
-In the last two months, Outlook represented our biggest desktop email client in terms of opens and clicks.
+***Example (from back in the day):***
+The CEO says to the VP of Marketing “Did you know that your emails look like crap on my iPhone? How many of our customers are using iPhones to read your email in the last 3 months? If they are having the same experience I’m having, then I think we need to something about it and pronto.” Then, since stuff flows downhill, the VP of Marketing then says to the users of the email marketing application “what’s our engagement via mobile devices, and they say hey no problem, our ESP AE just told me that they have a report that will help me provide you with the following types of answers:”
+- In the last month, 40% of our opens occurred on a mobile device and 60% on the desktop.
+- In the last quarter, only 20% clicks occurred via a mobile device.
+- In the last month, iPhones represented 80% of the mobile devices used by our audience.
+- In the last two months, Outlook represented our biggest desktop email client in terms of opens and clicks.
+
 The marketing user then visits the report to answer business questions around mobile and email client usage for a given period of time. The report is expected to have the following basic behavior and requirements:
-Parse web access logs to generate a daily count for mobile vs desktop user agents: For a granularity of day-level (not mailing or any deeper segmentation), summary counts shall be generated for the number of opens and clicks attributable to mobile or desktop user agents for a trailing number of weeks. Open and click interaction counts shall be available for reporting individually.
-Weekly or Daily Aggregation: The frequency of count aggregation shall be weekly at a minimum, but ideally would be performed daily, meaning specifically the counts are as recent as the previous day at all times.
-Ability to Report on a User Defined Start and End Date: Users should be able to specify their own start and end date for their report.
-Ability to view counts for device types within the mobile device category: Users should be able to look at counts for a given time period for each mobile device type (iPhone, iPad, Android, Windows phone, Blackberry, Other).
-Ability to view counts for device types within the mobile device category: Users should be able to look at counts for a given time period for each desktop client (Outlook, Gmail, Yahoo, Hotmail, Windows Live, AOL, Other).
-Day of Week Report: A day of week mobile vs desktop open proportion would be nice to have. Specifically, users would be able to see to what extent (by percent of total opens for the day) users are viewing through a mobile or desktop device. For example, users would be able to see that on Saturdays on average mobile devices account for 60% of opens but on Mondays they account for 20% of opens. 
+
+1. Weekly or Daily Aggregation: The frequency of count aggregation shall be weekly at a minimum, but ideally would be performed daily, meaning specifically the counts are as recent as the previous day at all times.
+2. Ability to Report on a User Defined Start and End Date: Users should be able to specify their own start and end date for their report.
+3. Ability to view open and click counts for device types within the mobile device category: Users should be able to look at counts for a given time period for each mobile device type (iPhone, iPad, Android, Windows phone, Blackberry, Other).
+4. Ability to view open and click counts for email client type: Users should be able to look at counts for a given time period for each desktop client (Outlook, Gmail, Yahoo, Hotmail, Windows Live, AOL, Other).
+5. Day of Week Report: A day of week mobile vs desktop open proportion. Specifically, users would be able to see to what extent (by percent of total opens for the day) users are viewing through a mobile or desktop device. For example, users would be able to see that on Saturdays on average mobile devices account for 60% of opens but on Mondays they account for 20% of opens. 
 
 ## Low Fidelity Wireframe / Conceptual Diagram
 Provide some visual description because often times “a picture is worth a thousand words” in terms of communicating to people that need to deliver on the desired project outcome. For example, show a wireframe that helps readers understand what might be delivered in the UI to solve the problem. This should not be considered a design and should instead be considered a conversation starter, an input to the design team.
