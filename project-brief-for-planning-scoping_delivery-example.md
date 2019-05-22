@@ -36,11 +36,13 @@ The CEO says to the VP of Marketing “Did you know that your emails look like c
 
 The marketing user then visits the report to answer business questions around mobile and email client usage for a given period of time. The report is expected to have the following basic behavior and requirements:
 
-1. Weekly or Daily Aggregation: The frequency of count aggregation shall be weekly at a minimum, but ideally would be performed daily, meaning specifically the counts are as recent as the previous day at all times.
-2. Ability to Report on a User Defined Start and End Date: Users should be able to specify their own start and end date for their report.
-3. Ability to view open and click counts for device types within the mobile device category: Users should be able to look at counts for a given time period for each mobile device type (iPhone, iPad, Android, Windows phone, Blackberry, Other).
-4. Ability to view open and click counts for email client type: Users should be able to look at counts for a given time period for each desktop client (Outlook, Gmail, Yahoo, Hotmail, Windows Live, AOL, Other).
-5. Day of Week Report: A day of week mobile vs desktop open proportion. Specifically, users would be able to see to what extent (by percent of total opens for the day) users are viewing through a mobile or desktop device. For example, users would be able to see that on Saturdays on average mobile devices account for 60% of opens but on Mondays they account for 20% of opens. 
+1. Campaign-level and or by day count aggregation
+2. Ability to report on a user-defined start and end date: users should be able to specify their own start and end date for their report.
+3. Ability to view open and click counts and share by device type: Users should be able to look at counts for a given time period for each device type (desktop, mobile, other).
+4. Ability to view open and click counts by device type device types within the mobile device category: Users should be able to look at counts for a given time period for each mobile device type (iPhone, iPad, Android, Windows phone, Blackberry, Other).
+5. Ability to view open and click counts and share for email client type: Users should be able to look at counts for a given time period for each email client (Outlook, Gmail, Yahoo, etc.).
+6. Time/Day of Week Report: Allow  users to assess to what extent users are viewing through a mobile or desktop device. For example, users would be able to see that on Saturdays on average mobile devices account for 60% of opens but on Mondays they account for 20% of opens.
+
 
 ## Low Fidelity Wireframe / Conceptual Diagram
 Provide some visual description because often times “a picture is worth a thousand words” in terms of communicating to people that need to deliver on the desired project outcome. For example, show a wireframe that helps readers understand what might be delivered in the UI to solve the problem. This should not be considered a design and should instead be considered a conversation starter, an input to the design team.
