@@ -57,12 +57,14 @@ Provide some basis for how the enhancement drives revenue. For example, a featur
 Provide some trackable measure of how success of the effort will be assessed. Examples include a desired level of adoption over a year, usage by customers representing some aggregate ARR, direct ARR lift if sold as a modulde, performance lift associated with a recommendation model, COGS saving over a year, etc. We will return to these measures during monthly, quarterly, and annual retrospectives.
 
 ## Plan for Resolving Risk
-Provide action items and owners or assessing and resolving the following four risk factors. We will revisit these throughout the project. 
+Provide action items and owners for assessing and resolving the following four risk factors. We will revisit these throughout the project. 
 
-### Viability  
-### Value  
+### Value and Viability
+How will we validate that it truly generates value and that we can actually market and sell it at scale as a business?
 ### Feasibility  
+How will we validate that we can build and scale it?
 ### Usablility  
+How will we validate that it's usable by the intended audience of users?
 
 ## FAQ 
 Concisely summarize a running FAQ that results from reviews and collaboration of this document. Keep it in POV of the beneficiary of the effort (usually the customer).
