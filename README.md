@@ -1,1 +1,1 @@
-# product-management-templates
+# Templates for various PM processes
