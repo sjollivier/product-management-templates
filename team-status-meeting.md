@@ -1,10 +1,10 @@
 # 2020 PM Team Status Meetings
 
 ## General Agenda:
-1 Business Updates
-2 4 Box Discussion
-3 Soap box / Blockers / Issues to escalate / Action items
-4 Tracking Links
+1. Business Updates
+2. Four Box Discussion
+3. Project Status Rundown
+4. Issues to escalate / Action items
 
 ## Week of xxxx
 
@@ -14,20 +14,17 @@
 * C
 
 ## Four Box:
-This Week:
-Quarterly OKRs:
-Priorities/Projects Next 4 Weeks:
-Health:
-* PM team: 
-* Dev team:
-* Biz team: 
+* Priorities/This Week
+* Priorities/Projects Next 4 Weeks
+* OKRs and Product Metrics
+* Health: PM team / Dev team / Biz team (assessed on a 1-10 scale)
 
-## Discussion Notes:
+## Project Status Rundown:
 * A
 * B
 * C
 
-## Soap Box/Action items: 
+## Issues to escalate / Action items: 
 * A
 * B
 * C
