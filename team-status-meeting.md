@@ -1,10 +1,10 @@
 # 2020 PM Team Status Meetings
 
 ## General Agenda:
-1. Business Updates
+1. Business Updates/Customer Learnings 
 2. Four Box Discussion
 3. Project Status Rundown
-4. Issues to escalate / Action items
+4. Decisions / Issues to escalate / Action items
 
 ## Week of xxxx
 
@@ -24,7 +24,7 @@
 * B
 * C
 
-## Issues to escalate / Action items: 
+## Decisions / Issues to escalate / Action items: 
 * A
 * B
 * C
