@@ -8,7 +8,7 @@
 
 ## Week of xxxx
 
-## Business Updates: 
+## Business Updates / Customer Learnings: 
 * A
 * B
 * C
