@@ -1,30 +1,36 @@
 # 2020 PM Team Status Meetings
 
 ## General Agenda:
-1. Business Updates/Customer Learnings 
+
+1. Business Updates/Customer Learnings
 2. Four Box Discussion
 3. Project Status Rundown
 4. Decisions / Issues to escalate / Action items
 
 ## Week of xxxx
 
-## Business Updates / Customer Learnings: 
-* A
-* B
-* C
+## Business Updates / Customer Learnings:
+
+- A
+- B
+- C
+- D
 
 ## Four Box:
-* Priorities/This Week
-* Priorities/Projects Next 4 Weeks
-* OKRs and Product Metrics
-* Health: PM team / Dev team / Biz team (assessed on a 1-10 scale)
+
+- Priorities/This Week
+- Priorities/Projects Next 4 Weeks
+- OKRs and Product Metrics
+- Health: PM team / Dev team / Biz team (assessed on a 1-10 scale)
 
 ## Project Status Rundown:
-* A
-* B
-* C
 
-## Decisions / Issues to escalate / Action items: 
-* A
-* B
-* C
+- A
+- B
+- C
+
+## Decisions / Issues to escalate / Action items:
+
+- A
+- B
+- C
