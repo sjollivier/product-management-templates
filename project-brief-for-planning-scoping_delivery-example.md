@@ -1,6 +1,6 @@
 # Project Brief for Planning and Scoping
 ## Project Name
-Provide a short phrase that captures the essence of the effort in the language of the beneficiary of this effort. This name will be used in many ways and at many levels once the project is underway. All stakeholders wonder what we're working on. A bad name signals a possibly ill conceived effort and then requires a lot of effort to reduce the entropy caused by a vague or narrow name.
+Provide a short phrase that captures the essence of the effort and its benefit.
 
 ## Project Type (Delivery or Discovery)
 Define the type of project. Delivery projects are the standard feature delivery for production deployment with hard requirements. Discovery projects involve a smaller team and usually result in  a throwaway prototype, but are vital in terms of validating a future winning feature or product and establishing its requirements so it can be delivered efficiently with low risk.
