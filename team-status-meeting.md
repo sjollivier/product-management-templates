@@ -36,3 +36,6 @@
 - B
 - C
 - D
+
+One on Ones:
+https://hypercontext.com/agenda-templates/weekly-one-on-one-meeting
